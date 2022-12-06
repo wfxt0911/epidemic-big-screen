@@ -1,0 +1,7 @@
+@import "./var.scss";
+
+:export {
+    primary: $primary;
+    border_color: $border_color;
+    opposite: $opposite;
+}

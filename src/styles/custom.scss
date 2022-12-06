@@ -1,0 +1,29 @@
+.z-tooltip {
+    width: 260px;
+    // height: 120px;
+    background-image: url("../assets//images//home//border_bg.png");
+    background-size: 100% 100%;
+    padding: 12px;
+    &__header {
+        text-align: center;
+        font-size: 24px;
+        color: $primary;
+    }
+    &__main {
+        display: flex;
+        flex-direction: column;
+        margin: 6px;
+        justify-content: center;
+        .z-tooltip__group {
+            font-size: 18px;
+            &--item-label {
+                color: $primary;
+            }
+            &--item-value {
+                margin-left: 20px;
+                font-family: Metro;
+                color: $opposite;
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+@layer utilities {
+    // 背景色
+    .bg-primary {
+        background-color: $primary;
+    }
+    .bg-gradient1 {
+        background-color: $gradient1;
+    }
+    .bg-gradient2 {
+        background-color: $gradient2;
+    }
+    .bg-gradient3 {
+        background-color: $gradient3;
+    }
+    .bg-gradient4 {
+        background-color: $gradient4;
+    }
+    .bg-opposite {
+        background-color: $opposite;
+    }
+    // 字体颜色
+    .text-primary {
+        color: $primary;
+    }
+    .text-gradient1 {
+        color: $gradient1;
+    }
+    .text-gradient2 {
+        color: $gradient2;
+    }
+    .text-gradient3 {
+        color: $gradient3;
+    }
+    .text-gradient4 {
+        color: $gradient4;
+    }
+    .text-opposite {
+        color: $opposite;
+    }
+    .text-auxiliary {
+        color: $auxiliary;
+    }
+}
