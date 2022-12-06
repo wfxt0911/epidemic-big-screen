@@ -14,6 +14,3 @@
 
 [epidemic.zclub.top]: epidemic.zclub.top
 
-
-
-![full](.\full.png)
