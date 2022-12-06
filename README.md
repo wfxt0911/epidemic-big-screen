@@ -16,9 +16,4 @@
 
 
 
-![full](E:\桌面\md\full.png)
-
-![full2](E:\桌面\md\full2.png)
-
-![full3](E:\桌面\md\full3.png)
-
+![full](.\full.png)
