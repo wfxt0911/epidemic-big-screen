@@ -1,4 +1,5 @@
 # 疫情数据大屏（ts+vue3）
+[![ppNP5Jf.md.jpg](https://s1.ax1x.com/2023/03/20/ppNP5Jf.md.jpg)](https://imgse.com/i/ppNP5Jf)
 
 本着学习vue3+ts技术栈的目前，敲了这个项目。
 
