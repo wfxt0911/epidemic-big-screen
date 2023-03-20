@@ -7,7 +7,7 @@
             <z-center></z-center>
             <z-right></z-right>
         </div>
-        <z-announcement @close="closeAnnouncement" v-if="isShowAnnounce"></z-announcement>
+        <!-- <z-announcement @close="closeAnnouncement" v-if="isShowAnnounce"></z-announcement> -->
     </dv-full-screen-container>
 </template>
 <script setup name='home' lang="ts">
